@@ -1,6 +1,6 @@
 ## PointBlank Revolution
 PointBlank Revolution is a game server simulation project PointBlank v3.24. This project is for educational use only.
-Do not sell or seek personal benefits. *** I want to say that be careful of getting caught. I have warned you!!***
+Do not sell or seek personal benefits. ***I want to say that be careful of getting caught. I have warned you!!***
 
 ### Server Features
 - All functions work perfectly and ready to use.

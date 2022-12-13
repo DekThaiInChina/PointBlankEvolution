@@ -1,27 +1,26 @@
 ## PointBlank Revolution
-PointBlank Revolution เป็นโปรเจคจำลองการทำงานเซิร์ฟเวอร์เกม PointBlank เวอร์ชั่น 3.24 โปรเจคนี้ใช้ในการศึกษาเท่านั้น
-ห้ามนำขายหรือหาผลประโยชน์ส่วนตน ***อยากจะบอกว่าระวังโดนจับนะ กูเตือนมึงแล้ว!!***
+PointBlank Revolution is a game server simulation project PointBlank v3.24. This project is for educational use only.
+Do not sell or seek personal benefits. *** I want to say that be careful of getting caught. I have warned you!!***
+
+### Server Features
+- All functions work perfectly and ready to use.
+- Database supports selling items on the web page.
+- Various bug fixes and update project packages
 
 
-### ฟีเจอร์ของเซิร์ฟเวอร์
-- ทุกฟังชั่นทำงานได้สมบูรณ์พร้อมใช้งาน
-- ฐานข้อมูลรองรับการขายไอเทมบนหน้าเว็บ
-- แก้ไขบัคต่าง ๆ และอัพเดทแพ็คเกจของโปรเจค
-
-
-### แก้ไขบัคในโปรเจค
-นอกจากจะดาวน์โหลดไปใช้งานแล้ว ทางผมยังต้องการกำลังในการพัฒนาเพิ่มฟีเจอร์ใหม่ ๆ หรือแม้แต่การแก้ไขบัคที่ยังไม่ได้รับการแก้ไข
-ทุกคนสามารถช่ายในการพัฒนาได้เรื่อย ๆ เพื่อให้โปรเจคทำงานได้ดีขึ้น
+### Fixed a bug in the project
+In addition to downloading to use I still need the power to develop new features or even fix bugs that haven't been fixed yet.
+Everyone can help in the ongoing development to make the project work better.
 
 
 ```
-- เพิ่มไอคอนให้ตัวคอนโซล์
-- เพิ่มข้อกำหนดของระบบป้องกัน
-- ล้างข้อมูลเดิมในฐานข้อมูล
-- เพิ่มการรองรับการขายไอเทมบนหน้าเว็บบนฐานข้อมูล
-- แก้ไขบัคในส่วน Auth Server
-- แก้ไขบัคในฐานข้อมูลในการรับค่า post ในการสมัครบนเว็บ
-- แก้ไขบัคไอเทมในเกม
-- อัพเดทแพ็คเกจของโปรเจคและ .NET Framework เป็นเวอร์ชั่นล่าสุดแล้ว
+- Added an icon to the console.
+- Added defense system requirements
+- Clear the old data in the database.
+- Added support for selling items on the database web page.
+- Fixed a bug in the Auth Server section
+- Fixed a bug in the database of receiving post values for web applications.
+- Fixed in-game item bugs
+- Updated project packages and .NET Framework to the latest version.
 
 ```
